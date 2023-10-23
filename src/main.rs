@@ -1,4 +1,3 @@
-#![feature(generic_associated_types)]
 #![recursion_limit = "256"]
 
 #[macro_use]
